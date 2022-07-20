@@ -54,7 +54,7 @@ nav {
 	/* display: flex; */
 	/* justify-content: space-evenly; */
 	margin-top: 15vh;
-	background-image: url(/assets/images/image\ 1.png);
+	background-image: url(./assets/images/image\ 1.png);
 	background-position: 100% 50%;
 	background-size: cover;
 }
