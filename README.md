@@ -15,7 +15,7 @@
 
 ## Description
 
-<p>This ia an agricultural website that suppots local farmers to sell their produce online</p>
+<p>AGRIPLUS - This is an agricultural website that supports local farmers to sell their produce online</p>
 
 ## Installation
 
