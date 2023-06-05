@@ -71,7 +71,7 @@ body {
 	font-size: 34px;
 }
 .btn {
-	padding: 20px;
+	padding: 10px;
 	border: none;
 	color: #fff;
 	font-size: 16px;
@@ -84,7 +84,7 @@ body {
 	color: #fff;
 	font-size: 18px;
 	border: none;
-	font-weight: 600;
+	font-weight: 660;
 	cursor: pointer;
 	box-sizing: border-box;
 }
@@ -99,8 +99,8 @@ body {
 	box-shadow: #ed661f 0px 2px 4px 0px, #ed661f 0px 2px 16px 0px;
 }
 .get-started-btn {
-	width: 20%;
-	/* margin-right: 25px; */
+	width: 25%;
+	margin-right: 250px;
 	display: flex;
 	justify-content: space-between;
 	align-items: center;
