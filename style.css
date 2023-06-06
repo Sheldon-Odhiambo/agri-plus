@@ -162,6 +162,7 @@ body {
 	right: 0;
 	bottom: 0;
 	margin-right: 12%;
+	/* margin-top: 7vw; */
 	box-shadow: rgba(0, 0, 0, 0.15) 0px 3px 3px 0px;
 }
 .statistics-agri .agri-rates {
